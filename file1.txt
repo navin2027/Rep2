@@ -1,1 +1,1 @@
-city : Delhi
+city : Bangalore
